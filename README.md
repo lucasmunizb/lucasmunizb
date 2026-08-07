@@ -1,31 +1,20 @@
 <h1 align="center">Lucas Muniz</h1>
 
 <p align="center">
-
   <strong>Desenvolvedor backend</strong> — PHP · Laravel · PostgreSQL · Docker
-
 </p>
 
 <p align="center">
-
   Backend-first, TDD e domínio determinístico.<br/>
-
 </p>
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3"/>
-
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
-
   <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16"/>
-
   <img src="https://img.shields.io/badge/Docker-Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/>
-
   <img src="https://img.shields.io/badge/Pest-TDD-6C5CE7?style=flat-square" alt="Pest / TDD"/>
-
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-
 </p>
 
 ---
@@ -76,24 +65,14 @@ a `APP_KEY`), CSP sem `unsafe-inline`, pentest documentado e corrigido com teste
 ## 📫 Contato
 
 <p align="left">
-
   <a href="https://www.linkedin.com/in/lucasmunizb/">
-
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
   </a>
-
   <a href="mailto:lucasmunizbraga@gmail.com">
-
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-
   </a>
-
   <a href="https://agentefinanceiro.muniztecnologia.com.br">
-
     <img src="https://img.shields.io/badge/Demo%20no%20ar-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo no ar"/>
-
   </a>
-
 </p>
 
